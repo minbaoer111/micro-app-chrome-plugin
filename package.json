@@ -1,5 +1,5 @@
 {
-  "name": "@zero/jdyfe-TouchEvent",
+  "name": "micro-app-map-plugin",
   "version": "0.0.1",
   "description": "utils env",
   "main": "dist/index.umd.js",
